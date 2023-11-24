@@ -1,0 +1,140 @@
+Programs offered by IITJ			
+			
+List of Academic Programs			
+         Academic Programs			                     Starting Year		      
+1.Bachelor of Technology 	
+            
+1	 Computer Science & Engineering	                Started in 2008
+2	 Electrical Engineering		               Started in 2008
+3	 Mechanical Engineering		 Started in  2008
+4	 Bioengineering		Started in  2017
+5	 Materials Engineering		Started from AY 2020-21
+6	 Chemical Engineering		
+7	 Civil and Infrastructure Engineering		
+8	 Artificial Intelligence and Data Science
+
+		
+2.Bachelor of Science 	
+		
+1	 Chemistry with Specialization		Started from 2022-23
+2	 Physics with Specialization		
+
+3.Master of Science
+ 			
+1	 Chemistry		Started in 2015
+2	 Mathematics		Started in 2015
+3	 Physics		Started in 2015
+4	 Digital Humanities		Started from AY 2020-21
+5	 Computational Social Science		Started from AY 2022-23
+
+
+4. M.Sc. - M.Tech. Dual Degree
+			
+1	 Data and Computational  Sciences		Started in  2019
+2	 M.Sc. in Physics and M.Tech. in Materials Engineering  		Started from AY 2020-21
+
+
+5.       Master of Technology			
+
+1	 Bioscience and Bioengineering		Started in 2017
+2	 Computer Science and Engineering		Started in 2018
+3	 Artificial Intelligence		Started in  2019
+4	 Cyber Physical System		Started in  2019
+5	 Sensors and Internet of Things		Started in  2019
+6	 Advanced Manufacturing and Design		Started in  2019
+7	 Data and Computational Sciences		Started in  2019
+8	 Thermofluids Engineering		Started in  2019
+9	 Materials Engineering		Name Metallurgical and Materials Engineering changed to Materials Engineering July 2020 (Started in 2018)
+10	 Chemical Engineering		Started from AY 2020-21
+11	 Infrastructure Engineering with specialization in Environmental Engineering		
+12	 Infrastructure Engineering with specialization in Energy		
+13	 Intelligent Communication System		Started from AY 2022-23
+14	 Robotics and Mobility Systems		
+
+
+6.Executive M.Tech.	
+		
+1	 Artificial Intelligence		Started  from year January 2020
+2	 Data and Computational Sciences		Started from year October 2021
+3	Intelligent VLSI Systems		Started from year AY 2022-23
+4	Augmented Reality and Virtual Reality (AR & VR)		
+5	Robotics and Mobility Systems	
+	
+7. M.Tech.-Ph.D. Dual Degree
+			
+1	 Sensors and Internet of Things		Started in 2019
+2	 Cyber Physical System		Started in 2019
+3	 Communication and Signal Processing 		Started in 2019
+4	 Thermofluids Engineering		Started in 2019
+5	 Advanced Manufacturing 		Started in 2019
+6	 Mechanical Design 		Started in 2019
+7	 Materials Engineering		Name Metallurgical and Materials Engineering changed to Materials Engineering July 2020 (Started in 2018)
+8	 Computer Science and Engineering		Started in 2019
+9	 Artificial Intelligence		Started in 2019
+10	 Data and Computational Sciences		Started in 2019
+11	 Bioscience and Bioengineering		Started in 2019
+12	 Chemical Engineering		Started from AY 2020-21
+13	 Infrastructure Engineering with specialization in Environmental Engineering		
+14	 Infrastructure Engineering with specialization in Energy		
+15	Intelligent Communication System		Started from AY 2022-23
+
+
+8. Doctor of Philosophy(phd)			
+
+1	 Chemistry		Started in 2014
+2	 Mathematics		Started in 2014
+3	 Physics		Started in 2014
+4	 Humanities & Social Sciences		Started in 2014
+5	 Biosciences and Bioengineering		Started in 2014
+6	 Computer Science & Engineering		Started in 2014
+7	 Electrical Engineering		Started in 2014
+8	 Mechanical Engineering		Started in 2014
+9	 Metallurgical & Materials Engineering		Started in 2018
+10	 Chemical Engineering		Started from AY 2020-21
+11	 Civil and Infrastructure Engineering		
+12	 Medical Technologies		
+13	 Management and Entrepreneurship		
+14	 Artificial Intelligence and Data Science		Started in 2021
+
+
+9. Interdisciplinary Ph.D.			
+
+1	 Digital Humanities		Started in 2019
+2	 Internet of things & Applications		Started in 2019
+3	 Smart Health Care		Started in 2019
+4	 Space Science and Technology		Started in 2019
+5	 Robotics and Mobility Systems		Started in 2019
+6	 Quantum Information and Computation		Started in 2019
+
+
+10. School of Management and Enterpreneurship
+1	 MBA 		Started from AY 2020-21
+
+
+11. Masters and Ph.D. Dual Degree			
+1	 Medical Technologies		Started from AY 2020-21
+
+12. Masters Programs			
+1	 Masters in Medical Technologies		Started from AY 2020-21
+
+13. Postgraduate Diploma  			
+1	Data Engineering and Cloud Computing 		Started from AY 2022-23 
+
+
+Following Programmes have been discontinued			
+B.Tech. 			
+1		 Systems Sciences (SS)	Started in 2011 discontinued in July 2015
+2		 Biologically Inspired System Science (BISS)	Started in  2013  discontinued in July 2015
+
+M.Tech.			
+1		 Center of ICT	 Started in 2011 discontinued in July 2015
+2		 Center of SS	
+3		 Center of Energy	
+4		 Mechanical Engineering	Started in 2015 dicontinued in July 2019
+5		 Electrical Engineering	
+
+Ph.D.			
+1		 Center of Energy 	Started in 2010  dicontinued in July 2015
+2		 Center of SS	Started in 2011 dicontinued in July 2015
+3		 Center of ICT	Started in 2012 dicontinued in July 2015
+4		 BISS	Started in 2013 dicontinued in July 2015

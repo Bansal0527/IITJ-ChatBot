@@ -1,0 +1,17 @@
+SNo.	Name	                  Roll Number	Position	       Vertical	                             Abbreviation
+1.0	Aman Prakash	          B19BB005	General Secretary	Student Senate	                        SS
+2.0	Manav Kappor	          B19EE048	General Secretary	ACAC	                                ACAC
+3.0	Arjun Hurket	          B19ME012	General Secretary	SAC	                                SAC
+4.0	Ved Prakash Choudhary	  B20CI018	Vice President(VP)	Board of Literary Affairs	        BLA
+5.0	Abhay Pratap Singh Sengar B20CS098	Vice President(VP)	Board of Student Sports	                BSS
+6.0	Devansh Menaria	          B20CS012	Vice President(VP).     Board of Art and Culture	        BAC
+7.0	Abhinav Kashyap	          B19CSE002	Vice-President	        Board of Student Wellfare	        BSW
+8.0	Prabal Singh	          B20CI030	Vice President(VP)	Board of Hostel Affairs	                BHA     
+9.0	Aryan Tiwari	          B20AI056	Vice President	        Board of Academic Interaction	        BAI
+10.0	Jeevesh Jain	          B19ME033	Vice President	        Board of Career Developmemt	        BCD
+11.0	Anirudh Bajaj	          B20CS005	Vice President	        Society of Alumini Affairs	        SAA
+12.0	Udit Agarwal	          B20ME076	Vice-President	        Board of co- cirriculat affairs	        BCCA
+13.0	Mitarth Arora	          B20EE096	Vice President	        Board of Innovation and Enterperauship	BIE
+14.0	Mukul Bhele	          B20MT028	Vice President	        Board of Departmemntal Societies	BDS
+
+bl

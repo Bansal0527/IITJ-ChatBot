@@ -1,0 +1,38 @@
+SNo.	Name 	Roll Number 	Position	Society Name
+1	Ved Prakash Choudhary	B20CI018	Vice President	Board of Literary Affairs
+2	Aaditya Baranwal 	B20EE001	Secretary	Literature Society
+3	Aayush Gulati 	        B21BB002	Joint Secretary	Literature Society
+4	Sukriti Goyal 	        B21CS075	Joint Secretary	Literature Society
+5	Soham Deshmukh 	        B21EE067	Joint Secretary	Literature Society
+6	Abhilasha Bidwaiker	B21CI002	Core Member	Literature Society
+7	Devavrath S.	        B21BB010	Core Member	Literature Society
+8	Giridhar Uppala	        B21EE072	Core Member	Literature Society
+9	Nidhi Patel	        B21BB020	Core Member	Literature Society
+10	AV Prithvi Kiran Naik	B21CS001	Core Member	Literature Society
+11	Saman Siddiqui	        B21BB027	Core Member	Literature Society
+12	Shubh Goyal	        B21CS073	Core Member	Literature Society
+13	Smruti Dawale	        B21BB007	Core Member	Literature Society
+14	Tamanna Maheshwari	B21ME068	Core Member	Literature Society
+15	Uzair Patel	        B21ES020	Core Member	Literature Society
+16	Rifa Khan	        B21CI036	Core Member	Literature Society
+17	Keshika Patwari	        B21CS039	Core Member	Literature Society
+18	Abu Shahid	        B20CS003	Core Member	Literature Society
+19	Abhishek Rajora	        B20sCS002	Core Member	Literature Society
+20	Anjali Agarwal   	B20AI051	Core Member	Literature Society
+21	Akshat Jain	        B20AI054	Core Member	Literature Society
+22	Bhavasar Saahil 	B20BB005	Core Member	Literature Society
+23	Kaustabh Mishra 	B20AI063	Core Member	Literature Society
+24	Vikas Yadav     	B20AI061	Core Member	Literature Society
+25	Lakshya Nitin Tandon	B20BB019	Core Member	Literature Society
+26	Shubham Ghelani 	B20EE019	Core Member	Literature Society
+27	Dhruv Mahajan   	B20EE016	Core Member	Literature Society
+28	Vrushali Pandit 	B20BB047	Core Member	Literature Society
+29	Stuti Aswani	        B20AI065	Core Member	Literature Society
+30	Aditi Goyal     	B19EE003	Core Member	Literature Society
+31	Harsh Agarwal	        B19EE036	Core Member	Literature Society
+32	Suyash Maniyar	        B19EE095	Core Member	Literature Society
+33	Chirag Bhavnani  	B19EE022	Core Member	Literature Society
+34	Nandini         	B19EE054	Core Member	Literature Society
+35	Zeba Karkhanawala	B19EE093	Core Member	Literature Society
+36	Riddhi Sera     	B19BB036	Core Member	Literature Society
+37	Aman Prakash	        B19BB005	Core Member	Literature Society
