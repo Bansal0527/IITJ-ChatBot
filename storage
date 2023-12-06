@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>College Query Page</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+        }
+
+        h1 {
+            color: #333;
+        }
+
+        label {
+            font-size: 1.2em;
+            margin-bottom: 10px;
+            color: #555;
+        }
+
+        input {
+            padding: 10px;
+            width: 300px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            margin-bottom: 10px;
+        }
+
+        button {
+            background-color: #4caf50;
+            color: white;
+            padding: 10px 15px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+
+        button:hover {
+            background-color: #45a049;
+        }
+
+        #answer-section {
+            margin-top: 20px;
+        }
+
+        p {
+            font-size: 1.2em;
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <h1>College Query Page</h1>
+        
+        <label for="query-text">Enter your question:</label>
+        <input type="text" id="query-text">
+        <button onclick="submitQuery()">Submit</button>
+        
+        <div id="answer-section">
+            <!-- Answers will be displayed here -->
+        </div>
+    </div>
+
+    <script>
+        function submitQuery() {
+            const queryText = document.getElementById("query-text").value;
+
+            fetch(`/query?text=${encodeURIComponent(queryText)}`)
+                .then(response => response.json())
+                .then(data => {
+                    const answerSection = document.getElementById("answer-section");
+                    console.log(data.text);
+                    answerSection.innerHTML = `<p>Answer: ${data.text}</p>`;
+                })
+                .catch(error => {
+                    console.error("Error:", error);
+                });
+        }
+    </script>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

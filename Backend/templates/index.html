@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>College Query Page</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            height: 100vh;
+        }
+
+        
+        header {
+          color: white;
+          
+          background-color:#4caf50;
+          padding: 20px; /* Add padding to see the background */
+          width: 100%; /* Set width to 100% to cover the entire viewport */
+          text-align: center;
+      }
+        h1 {
+            color: white;
+            
+        }
+
+        label {
+            font-size: 1.2em;
+            margin-bottom: 10px;
+            color: #555;
+        }
+
+        input {
+            padding: 10px;
+            width: 300px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            margin-bottom: 10px;
+        }
+
+        button {
+            background-color: #4caf50;
+            color: white;
+            padding: 10px 15px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+
+        button:hover {
+            background-color: #45a049;
+        }
+
+        #answer-section {
+            width: 70%;
+            max-width: 800px;
+            max-height: 550px; /* Set a maximum height for the scroll bar */
+            overflow-y: auto; /* Add a vertical scrollbar when needed */
+            background: url('logo.png') no-repeat center center fixed; /* Replace 'your-logo.png' with your logo image path */
+            background-size: cover;
+
+            display: flex;
+            flex-direction: column; /* Display cards in reverse order */
+        }
+          
+        #question-section {
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding: 20px;
+            background-color: white;
+        }
+      
+        .answer-card {
+            background-color: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            margin: 20px 0;
+        }
+
+        p {
+            font-size: 1.2em;
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <header >
+      <div class="heada">
+        <h1 > College Query Page</h1>
+      </div>
+    </header>
+
+    <div id="answer-section">
+        <!-- Answers will be displayed here -->
+    </div>
+
+    <div id="question-section">
+        <label for="query-text">Enter your question:</label>
+        <input type="text" id="query-text">
+        <button onclick="submitQuery()">Submit</button>
+    </div>
+
+    <script>
+        function submitQuery() {
+            const queryText = document.getElementById("query-text").value;
+
+            fetch(`/query?text=${encodeURIComponent(queryText)}`)
+                .then(response => response.json())
+                .then(data => {
+                    const answerSection = document.getElementById("answer-section");
+
+                    // Create a new answer card
+                    const answerCard = document.createElement("div");
+                    answerCard.classList.add("answer-card");
+                    answerCard.innerHTML = `<p><strong>Question:</strong> ${queryText}</p><p><strong>Answer:</strong> ${data.text}</p>`;
+
+                    // Append the answer card to the answer section
+                    answerSection.appendChild(answerCard);
+
+                    // Scroll to the bottom of the answer section
+                    answerSection.scrollTop = answerSection.scrollHeight;
+                })
+                .catch(error => {
+                    console.error("Error:", error);
+                });
+        }
+    </script>
+</body>
+</html>

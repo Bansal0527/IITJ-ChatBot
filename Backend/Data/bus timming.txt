@@ -1,0 +1,98 @@
+Proposed Bus Schedule
+
+1.Buses (B3 & B-4) Timings from Monday to Friday:
+
+Bus no.B3
+
+Departure time
+11:00 Hrs IIT J Campus
+Arrival Time
+12:00 Hrs MBM
+
+Departure time
+16:00 Hrs mbm
+Arrival Time
+17:00 Hrs iitj campus
+
+Departure time
+17:20 Hrs IIT J Campus
+Arrival Time
+18:20 Hrs MBM
+
+Departure time
+21:30 Hrs mbm
+Arrival Time
+22:30 Hrs itj campus
+ 
+B4
+Departure time
+17:20 Hrs IIT J Campus
+Arrival Time
+18:20 Hrs MBM
+
+Departure time
+22:00 Hrs mbm
+Arrival Time
+23:00 Hrs iitj campus
+
+---------------------------------------------------------------------------------------------------------------
+2.Buses (B3 & B-4 & B-1) Timings on saturday and sunday:
+
+
+B3
+
+Departure time
+10:00 Hrs IIT J Campus
+Arrival Time
+11:00 Hrs MBM
+
+Departure time
+16:00 Hrs mbm
+Arrival Time
+17:00 Hrs iit j campus
+
+Departure time
+17:20 Hrs IIT J Campus
+Arrival Time
+18:20 Hrs MBM
+
+Departure time
+21:30 Hrs mbm
+Arrival Time
+22:30 Hrs iitj campus
+
+
+B4
+
+Departure time
+11:00 Hrs IIT J Campus
+Arrival Time
+12:00 Hrs MBM
+
+Departure time
+16:30 Hrs mbm
+Arrival Time
+17:30 Hrs iitj campus
+
+Departure time
+17:50 Hrs IIT J Campus
+Arrival Time
+18:50 Hrs MBM
+
+Departure time
+22:00 Hrs mbm
+Arrival Time
+23:00 Hrs iitj campus
+
+B1
+
+Departure time
+15:00 Hrs IIT J Campus
+Arrival Time
+16:00 Hrs MBM
+
+Departure time
+21:00 Hrs mbm
+Arrival Time
+22:00 Hrs iitj campus
+
