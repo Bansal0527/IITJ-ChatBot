@@ -46,4 +46,4 @@ Contributions are welcome! Please follow these steps:
 
 ## Contact
 
-For any inquiries or support, please reach out to [Mayank](mailto:works.mayank27@gmail.com).
+For any inquiries or support, please reach out to works.mayank27@gmail.com
