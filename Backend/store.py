@@ -10,7 +10,7 @@ from llama_index.embeddings import LangchainEmbedding
 from langchain.embeddings.gpt4all import GPT4AllEmbeddings
 
 embed_model = LangchainEmbedding(GPT4AllEmbeddings())
-os.environ['GOOGLE_API_KEY'] = "AIzaSyCiWI65fZsluqcnRwDxM8OXwBeu_zVypBE"
+os.environ['GOOGLE_API_KEY'] = "" #enter GEMINI API KEY
 llm = PaLM()
 
 
